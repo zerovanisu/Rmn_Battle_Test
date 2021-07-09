@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 17240d10302c6e142b49459a0691b663
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Shot01: {fileID: 7040369304351146246, guid: 8885eddb30021d7409de642fe173c938, type: 3}
+  - Shot02: {fileID: 7040369304351146246, guid: 24497a121462cb544b232b31bf9ec464, type: 3}
+  - Shot03: {fileID: 7040369304351146246, guid: 6d5f624cb1238064ea8018a9c9284122, type: 3}
+  - Shot04_1: {fileID: 7040369304351146246, guid: 8ccb3afff60f43544a8b336e4164fc63, type: 3}
+  - Shot04_2: {fileID: 7040369304351146246, guid: 829e6b860c855014980d6a6fad0a460e, type: 3}
+  - Shot04_3: {fileID: 7040369304351146246, guid: 79e606b8ed2295c4b9a785cdb27892ef, type: 3}
+  - Shot05: {fileID: 7040369304351146246, guid: e7d9c35a4066f8b46b9f61170d545b3c, type: 3}
+  - Shot06: {fileID: 7040369304351146246, guid: 4eee56ff394156c4db84d205badada11, type: 3}
+  - Shot07: {fileID: 7040369304351146246, guid: 69240b0c64bab504998f1bf04926eeed, type: 3}
+  - Shot08: {fileID: 7040369304351146246, guid: 5b8cc76b9fbd53a4b91bb7b112b7fde3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

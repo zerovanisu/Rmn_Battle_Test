@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BuckStage
+  - BackStage
+  - Bullet
+  - Target
+  - Player_L2
+  - Bullet_2
+  - Bullet_1
+  - Bullet_3
+  - Player_L1
+  - Player_R1
+  - Hit_Body_P1
+  - Player_R2
+  - Hit_Body_P2
+  - Barrier
+  - Absorption
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Event
+  - Hit_Body
+  - Player
+  - Bullet
+  - Stage
+  - Back Stage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 1716512827
+    locked: 0
+  - name: Hit_body
+    uniqueID: 1262752535
+    locked: 0
